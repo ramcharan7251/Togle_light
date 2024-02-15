@@ -8,8 +8,11 @@ This project implements a simple light/dark mode toggle functionality using HTML
 ## Deployed at: [Look here](https://togglelight.netlify.app)
 ## Features
 **Toggle Button:** Clicking the toggle button switches between light and dark modes, altering the color scheme of the webpage.
+
 **Dynamic Styling:** The webpage dynamically adjusts its appearance based on the selected mode, ensuring optimal readability and visual appeal.
+
 **User Preference:** Users can choose their preferred mode based on their preference and environmental conditions, enhancing user satisfaction.
+
 ## Usage
 Clone or download the repository to your local machine.
 Open the index.html file in your web browser.
